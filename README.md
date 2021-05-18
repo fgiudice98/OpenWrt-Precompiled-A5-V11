@@ -3,7 +3,7 @@ A5-V11 precompiled OpenWrt firmware
 Without ppp and luci packages but ready for extroot with ext formatted usb storage
 
 ## First installation
-1. Copy flash.sh, uboot.bin and a firmware.bin (from the version folders) in a fat usb storage
+1. Copy flash.sh, uboot.bin and a firmware.bin (from the version folders) in a fat32 usb storage
 1. Connect the usb storage to the A5-V11
 1. Enter the telnet shell and navigate to the usb storage
 1. Run flash.sh
